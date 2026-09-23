@@ -1,14 +1,3 @@
-# """
-# Sistem Manajemen Presensi Karyawan
-# ==================================
-# Tugas Pemrograman Berorientasi Objek (PBO)
-# Menerapkan materi dari:
-#   - Modul 1: Pengantar OOP, Class, dan Object
-#   - Modul 2: Atribut dan Method
-#   - Modul 3: Encapsulation dan Property
-# """
-
-
 class Karyawan:
     """Merepresentasikan data seorang karyawan."""
 
